@@ -14,7 +14,6 @@ What did I do in this project?
 
  Phone test done
 
-
 ![Ekran görüntüsü 2024-06-03 162614](https://github.com/Nhuseyinozen/Slam-Dunk/assets/149398357/b96c636b-977a-4b2d-9c46-44e37d341d0e)
 
 
